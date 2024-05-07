@@ -8,5 +8,5 @@
 
 
 <p align="center">
-<img src="https://files.catbox.moe/4j0auf.png"/>
+<img src="https://files.catbox.moe/pidwi9.png"/>
 </p>
