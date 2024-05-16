@@ -14,13 +14,19 @@
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/xjpt1i.gif"/>
-<img src="https://files.catbox.moe/87waln.png"/>
+<img src="https://files.catbox.moe/7ntwse.png"/>
 <img src="https://files.catbox.moe/h8lll3.png"/>
-<img src="https://files.catbox.moe/kshjla.gif"/>
+<img src="https://files.catbox.moe/d7ubsp.png"/>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/vii0qh.png"/>
 <img src="https://files.catbox.moe/a6ufa2.png"/>
 <img src="https://files.catbox.moe/u8pym1.png"/>
 <img src="https://files.catbox.moe/vfnajx.png"/>
+</p>
+<p align="center">
+<img src="https://files.catbox.moe/akavy5.png"/>
+<img src="https://files.catbox.moe/5uhhg2.png"/>
+<img src="https://files.catbox.moe/mmkvh5.png"/>
+<img src="https://files.catbox.moe/kc28s9.png"/>
 </p>
