@@ -1,12 +1,4 @@
 <p align="center">
-<img src="https://files.catbox.moe/16ehjx.png"/>
-</p>
-
-<p align="center">
-<img src="https://files.catbox.moe/72whal.png"/>
-</p>
-
-<p align="center">
 <img src="https://files.catbox.moe/gsfqfd.png"/>
 <img src="https://files.catbox.moe/59x4b6.png"/>
 <img src="https://files.catbox.moe/dq8fnk.png"/>
